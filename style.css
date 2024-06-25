@@ -10,11 +10,18 @@
   #main-header .port-item:hover {
     cursor: pointer;
   }
+  body{
+    background-color: blanchedalmond;
+  }
   .bg-black {
     color: #fff;
     background: black;
   
     text-align: center;
+  }
+  footer{
+    cursor: pointer;
+    
   }
   @media (min-width: 1199px) {
     .port-item {
