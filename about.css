@@ -1,0 +1,24 @@
+
+body{
+
+    background-color: chocolate;
+}
+
+fieldset{
+    background-color: navy;
+}
+input{
+    
+    width: 400px;
+    height: 30px;
+}
+
+select{
+    width: 400px;
+    height: 30px;
+    
+}
+fieldset{
+  
+    background-color: rgb(135, 192, 241);
+}
