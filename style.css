@@ -25,13 +25,19 @@
 .Card{
   display: flex;
   justify-content: center;
-  width: 420px;
-  padding: 10px 0px;
-  margin: 10px 10px;
-  
+
+ margin: 10px 10px;
   border-radius: 10px;
+  padding: 0px 10px;
+
+  
+
  
  
+}
+.Card img{
+  overflow: hidden;
+
 }
 .Card:nth-child(2n){
   background:linear-gradient(rgb(236, 39, 39), rgb(25, 0, 5));
